@@ -1,6 +1,0 @@
-﻿Build started at 3:40 pm...
-1>------ Build started: Project: prog 3, Configuration: Debug Any CPU ------
-1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
-1>prog 3 -> C:\Users\user\source\repos\prog 3\prog 3\bin\Debug\net8.0\prog 3.dll
-========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
-========== Build completed at 3:40 pm and took 00.604 seconds ==========
